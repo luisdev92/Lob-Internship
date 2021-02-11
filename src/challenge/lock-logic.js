@@ -1,3 +1,5 @@
+// Author: Luis Santander
+
 const redirect = window.redirect
 
 const SECRET_COMBO = [1, 3, 5, 1]
