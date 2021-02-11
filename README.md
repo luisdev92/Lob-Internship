@@ -22,9 +22,10 @@ To do this, open `/src/challenge/lock-logic.js` and read the instructions there 
 
 Be sure to lint your code - you can do that by running
 ```sh
-npm install
+npm install/Users/luissantanderdev/Desktop/folder/intern-interviews/src/challenge/lock-logic.js
 npx eslint .
 # or
 # > npx eslint . --fix
 # to automatically fix simple issues
 ```
+# lob-intern-interviews
