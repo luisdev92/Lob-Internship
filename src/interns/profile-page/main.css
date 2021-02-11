@@ -1,0 +1,29 @@
+
+
+
+* {
+	margin: 10px; 
+	background-color: #00BFFF;
+}
+
+.picture {
+	width: 200px;
+	height: 200px;
+	margin-bottom: 50px;
+}
+
+.text {
+	background-color: white;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+body {
+	border: 1px solid white; 
+	box-shadow: 5px 10px;
+	padding: 5px;
+	background-color: #fff;
+}
