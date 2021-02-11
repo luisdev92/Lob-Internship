@@ -28,5 +28,3 @@ npx eslint .
 # > npx eslint . --fix
 # to automatically fix simple issues
 ```
-# lob-intern-interviews
-# lob-intern-interviews
