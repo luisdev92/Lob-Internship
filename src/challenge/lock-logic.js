@@ -1,4 +1,4 @@
-// Author: Luis Santander
+// Author: Luis Manuel Santander
 // ------------------------------
 const redirect = window.redirect
 
