@@ -1,5 +1,5 @@
 // Author: Luis Santander
-
+// ------------------------------
 const redirect = window.redirect
 
 const SECRET_COMBO = [1, 3, 5, 1]
@@ -29,6 +29,8 @@ function changeDialValue (index, incrementBy) {
   // the redirect function will only redirect if the lockState is unlocked
 
   // Update state on the lockstate
+
+  // My Code updated
   lockState.wheels[index] += incrementBy; 
 
   // Check if current lockstate matches secret combo
@@ -39,7 +41,7 @@ function changeDialValue (index, incrementBy) {
   		lockState.locked = false; 
 
   		// Redirect user to the larry lobster page 
-  		redirect('larry-lobster'); 
+  		redirect('luis-santander'); 
   }
 
 }
