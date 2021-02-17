@@ -1,15 +1,10 @@
-# Updated Code Challenge for Viewing
-# Luis Santander
-
-
 # Intern Interviews
 ## Directions
-- Please duplicate this respository as a private repo in your own GitHub account.
+- Please *duplicate* (not fork) this respository as a private repo in your own GitHub account.
 - Write your profile page (see details under [Profile Page](#profile-page))
 - Author your code (see details under [Code Challenge](#code-challenge))
 - Submit a pull request to your repo's `main` branch with your changes.
 - On github, please add [Nina Hwang](https://github.com/nihwang), [Alex Strachan](https://github.com/metalsheep/), [Roman Kofman](https://github.com/rkofman-lob), and [Sasha Ashpis](https://github.com/sasha-ashpis) to have write permissions.
-- Tag [Nina Hwang](https://github.com/nihwang), [Alex Strachan](https://github.com/metalsheep/), [Roman Kofman](https://github.com/rkofman-lob), and [Sasha Ashpis](https://github.com/sasha-ashpis), as reviewers on your PR.
 - Provide a link to your created PR when submitting your application
 
 ## Profile Page
@@ -26,7 +21,7 @@ To do this, open `/src/challenge/lock-logic.js` and read the instructions there 
 
 Be sure to lint your code - you can do that by running
 ```sh
-npm install/Users/luissantanderdev/Desktop/folder/intern-interviews/src/challenge/lock-logic.js
+npm install
 npx eslint .
 # or
 # > npx eslint . --fix
